@@ -127,17 +127,17 @@ header ul li a:hover {
     box-shadow: 0 5px 10px rgba(14, 14, 14, 0.1);
 }
 
-
-}
 .imagebx {
     max-height: 400px;
 }
+
 .imagebx img {
     max-width: 400px;
     height: 400px;
     animation: animate 5s linear infinite;
     margin-right: 0;
 }
+
 
 /* @keyframes animate {
     0%,
@@ -148,6 +148,7 @@ header ul li a:hover {
         transform: translateY(100px);
     }
 } */
+
 .sci {
     position: absolute;
     right: -25px;
@@ -156,9 +157,11 @@ header ul li a:hover {
     align-items: center;
     flex-direction: column;
 }
+
 .sci li {
     list-style: none;
 }
+
 .sci li a {
     text-decoration: none;
     width: 50px;
@@ -171,11 +174,13 @@ header ul li a:hover {
     margin: 5px 0;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 1);
 }
+
 .sci li a img {
     max-width: 30px;
     transform: scale(0.6);
     transition: 0.5s;
 }
+
 .sci li:hover a img {
     transform: scale(0.6) rotate(360deg);
 }
