@@ -129,14 +129,16 @@ header ul li a:hover {
 
 .imagebx {
     margin-top: 20px;
-    max-height: 400px;
+    max-height: 300px;
+    box-shadow: 0 5px 10px rgba(14, 14, 14, 0.1);
 }
 
 .imagebx img {
     max-width: 400px;
-    height: 400px;
+    height: 250px;
     animation: animate 5s linear infinite;
     margin-right: 0;
+    border-radius: 50%;
 }
 
 
