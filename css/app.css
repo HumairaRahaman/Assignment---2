@@ -216,8 +216,8 @@ header ul li a:hover {
     height: 250px;
     animation: animate 5s linear infinite;
     margin-right: 0;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, .74);
-    border-radius: 50%;
+/*     box-shadow: 0 15px 30px rgba(0, 0, 0, .74);
+    border-radius: 50%; */
 }
 
 
